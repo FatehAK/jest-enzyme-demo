@@ -1,2 +1,2 @@
 # Jest-Demo
-Jest usage with React-Redux
+Jest usage with React-Redux.
