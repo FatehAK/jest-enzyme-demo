@@ -1,0 +1,22 @@
+{
+  "name": "random-word-server",
+  "version": "1.0.0",
+  "author": "",
+  "license": "AGPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyrightsister/udemy-react-testing-projects.git"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest --forceExit"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "supertest": "^4.0.2"
+  }
+}

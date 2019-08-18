@@ -1,0 +1,39 @@
+.input-todo {
+    display: flex;
+    justify-content: center;
+    margin: 30px 0 0 0;
+    padding: 12px 12px 12px 12px;
+    background: #fff;
+    max-width: 700px;
+    width: 100%;
+}
+
+.input-box {
+    flex: 1 1 0;
+    padding: 10px 5px 10px 5px;
+    border: 0;
+}
+
+.input-box:focus {
+    outline: none;
+}
+
+.add-button {
+    border: 0;
+    padding: 5px 30px 5px 30px;
+    color: #fff;
+    background: #ee4567;
+    transition: background 0.2s;
+}
+
+.add-button:hover {
+    background: #ff587a;
+}
+
+.add-button:active {
+    background: #e44061;
+}
+
+.add-button:focus {
+    outline: none;
+}

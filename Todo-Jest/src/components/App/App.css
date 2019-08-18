@@ -1,0 +1,21 @@
+.app {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 10px;
+}
+
+.app-head {
+    display: flex;
+    justify-content: center;
+    padding: 30px 0 0 0;
+    font-size: 1.7rem;
+    color: #363647;
+}
+
+.app-head-type {
+    font-size: 1.05rem;
+    color: #eb274e;
+    position: relative;
+    top: -30px;
+}
